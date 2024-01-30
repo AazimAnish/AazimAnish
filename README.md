@@ -1,8 +1,10 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/roycuadra)
+<p align="center">
+  <img src="https://media.giphy.com/media/L3ElvK5k5U4KZ3ivk4/giphy.gif?cid=790b7611x85b10wsmb3nfulbo71ao6oqqlfnzvyx320xawjj&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</p>
 
 ###
 
-<h1 align="center">Hi <img src="https://camo.githubusercontent.com/b3aa0cb9c95a7593d72ef8e0a894f3ea11e665b6193e90281361a442dc5010e0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" 
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" 
          alt="Waving hand animated gif"
          height=""
          width="45" />, <br>I'm Aazim</h1>
@@ -28,7 +30,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on <a href="https://github.com/AazimAnish/RDBMS_miniProject">Collage website</a><br><br>🌱 I’m currently learning Solidity<br><br>💬 Ask me about HTML, CSS, JavaScript, React<br><br>✍🏻 I write my personal thoughts on programming<br><br>📚 Reading: How to win friends and influence people -Dale Carnegie.
+<h4 align="left">🔭 I’m currently working on <a href="https://github.com/AazimAnish/RDBMS_miniProject">Collage website</a><br><br>🌱 I’m currently learning web3.<br><br>💬 Ask me about HTML, CSS, JavaScript, React<br><br>✍🏻 "The only way to do great work is to love what you do." - Steve Jobs<br><br>📚 Reading: Building a Second Brain - Tiago Forte.
 
 ###
 
