@@ -30,7 +30,7 @@
 
 ###
 
-<h4 align="left">🔭 I’m currently working on <a href="https://github.com/AazimAnish/RDBMS_miniProject">Collage website</a><br><br>🌱 I’m currently learning web3.<br><br>💬 Ask me about HTML, CSS, JavaScript, React<br><br>✍🏻 "The only way to do great work is to love what you do." - Steve Jobs<br><br>📚 Reading: Building a Second Brain - Tiago Forte.
+<h4 align="left">🔭 I’m currently working on <a href="https://github.com/AazimAnish/RDBMS_miniProject">College website</a><br><br>🌱 I’m currently learning web3.<br><br>💬 Ask me about HTML, CSS, JavaScript, React<br><br>✍🏻 "The only way to do great work is to love what you do." - Steve Jobs<br><br>📚 Reading: Building a Second Brain - Tiago Forte.
 
 ###
 
