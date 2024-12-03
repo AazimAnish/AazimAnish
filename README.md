@@ -7,30 +7,29 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" 
          alt="Waving hand animated gif"
          height=""
-         width="45" />, <br>I'm Aazim</h1>
+         width="45" />, <br> I'm Aazim</h1>
+
+
+
+<h2 align="left">🪭 About Me</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  >
-  <a href="https://www.linkedin.com/in/aazim-anish-b5871022a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/aazim_anish" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  />
-  <img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  >
-</div>
+<h4 align="left">👨‍💻 BTech Final Year @ CUSAT | Web3 & Web Dev Enthusiast 🚀 | 5x Hackathon Winner 🏆 | Always Building Something Cool 🔧</h4>  
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h4 align="left">🔥 What I Do:</h4>  
+<ul>
+  <li>By Day: Bruce Wayne 🕶️</li>  
+  <li>By Night: Batman 🦇</li>  
+</ul>
 
-###
 
-<h4 align="left">🔭 I’m currently working on <a href="https://github.com/AazimAnish/RDBMS_miniProject">College website</a><br><br>🌱 I’m currently learning web3.<br><br>💬 Ask me about HTML, CSS, JavaScript, React<br><br>✍🏻 "The only way to do great work is to love what you do." - Steve Jobs<br><br>📚 Reading: Building a Second Brain - Tiago Forte.
+<h4 align="left">🧠 Always Learning: Turning ideas into tech that matters.</h4>  
+<h4 align="left">✨ Motto: Code. Build. Innovate. Repeat.</h4>  
+
+<h4 align="left">📫 DMs Open: Let’s collab on something amazing!</h4>
+
 
 ###
 
@@ -40,7 +39,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -86,7 +85,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
