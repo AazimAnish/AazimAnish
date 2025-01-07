@@ -104,4 +104,8 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AazimAnish&color=blueviolet&abbreviated=true" alt="Profile Views" />
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A277FF&height=120&section=footer" />
