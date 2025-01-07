@@ -4,18 +4,18 @@
 
 ###
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" 
+<h1 align="center">Hey there <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" 
          alt="Waving hand animated gif"
          height=""
          width="45" />, <br> I'm Aazim</h1>
 
 
 
-<h2 align="left">🪭 About Me</h2>
+<h2 align="left">🪭 A Little About Me</h2>
 
 ###
 
-<h4 align="left">👨‍💻 BTech Final Year @ CUSAT | Web3 & Web Dev Enthusiast 🚀 | 5x Hackathon Winner 🏆 | Always Building Something Cool 🔧</h4>  
+<h4 align="left">👨‍💻 BTech Final Year @ CUSAT | Web3 & Web Dev Enthusiast 🚀 | 6x Hackathon Winner 🏆 | Always Building Something Cool 🔧</h4>  
 
 
 <h4 align="left">🔥 What I Do:</h4>  
@@ -25,10 +25,10 @@
 </ul>
 
 
-<h4 align="left">🧠 Always Learning: Turning ideas into tech that matters.</h4>  
-<h4 align="left">✨ Motto: Code. Build. Innovate. Repeat.</h4>  
+<h4 align="left">🧠 Always learning, always building: Turning ideas into something real.</h4>  
+<h4 align="left">✨ Motto: Code, create, repeat.</h4>  
 
-<h4 align="left">📫 DMs Open: Let’s collab on something amazing!</h4>
+<h4 align="left">📫 Hit me up: Let's make something awesome together!</h4>
 
 
 ###
